@@ -23,8 +23,9 @@ This dataset first appeared in the following paper:
 
 - Ha, Q.M., Deville, Y., Pham, Q.D. and Hà, M.H., 2018. On the min-cost traveling salesman problem with drone. *Transportation Research Part C: Emerging Technologies*, 86, pp.597-621. https://doi.org/10.1016/j.trc.2017.11.015
 
-**Dataset**: http://orlab.com.vn/home/download
-[(direct download link)](http://orlab.com.vn/files/tspd_instances.zip)
+**Dataset**: [http://orlab.com.vn/home/download](https://orlab.com.vn/materials/)
+[(direct download link)](https://orlab.com.vn/download/instances-for-the-traveling-salesman-problem-with-drone-tsp-d/)
+
 
 
 
